@@ -1,0 +1,42 @@
+h1 {
+font-family: Nimbus Sans L;
+font-size: 30px;
+padding-top: 15px;
+border-bottom: 1px solid #939598;
+text-transform: uppercase;}
+
+.btn-primary {
+background-color: #7f3f98;
+border-color: transparent;
+font-family: Nimbus Sans L;
+border-radius: 10px;
+text-transform: lowercase;
+}
+
+.btn-primary: hover {
+background-color: #fff;
+border:  3px solid #7f3f98 !important;
+color: #7f3f98;
+font-family: Nimbus Sans L;
+border-radius: 10px;
+text-transform: lowercase;
+}
+
+
+.novocliente {
+background-color: #fff;
+border:  3px solid #7f3f98 !important;
+color: #7f3f98;
+font-family: Nimbus Sans L;
+border-radius: 10px;
+text-transform: lowercase;
+}
+
+.novocliente a, .novocliente a:link, .novocliente a:hover, .novocliente a:visited {
+background-color: #fff;
+color: #7f3f98;
+border:  3px solid #7f3f98 !important;
+font-family: Nimbus Sans L;
+border-radius: 10px;
+text-transform: lowercase;
+}
